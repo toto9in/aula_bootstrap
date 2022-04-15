@@ -1,0 +1,27 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+.navbar{
+    background-color: aquamarine;
+}
+
+.quem-somos{
+    background-color: bisque;
+    text-align: center;
+    color: dimgray;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.mercadorias{
+    background-color: chartreuse;
+}
+
+.bg-footer{
+    background-color: cornflowerblue;
+    color:white;
+}
